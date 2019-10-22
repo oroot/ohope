@@ -15,6 +15,6 @@
     </td>
   </tr>
   <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/oroot/ohope/master/_/oHopeh.jpg"/></td>
+    <td align=center><img src="https://raw.githubusercontent.com/oroot/ohope/master/_/oHopec.jpg"/></td>
   </tr>
 </table>
